@@ -1,0 +1,25 @@
+<html>
+    <head>
+    </head>
+
+    <body>
+        <h1>Mahadev</h1>
+    </body>
+</html>
+
+
+history - route manage
+spa (single page application) - only view change 
+
+q -> single page application history means
+
+web page -> 1. dom (document(body of html)) bom(browser)
+
+q - Dom vs Bom
+
+browser -> object window
+
+w3school -> html5, css3, js
+
+css box property model
+dark -> tag
